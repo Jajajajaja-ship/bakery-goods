@@ -1,0 +1,41 @@
+body {
+    background-color: #43291F;
+    color: beige;
+    font-family: Georgia;
+}
+
+h1 {
+    color: tan;
+    text-align: center;
+}
+
+h2 {
+    color: tan;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    color: beige;
+    margin: 10px;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
+
+footer {
+    text-align: center;
+    background-color: #654332;
+    padding: 10px;
+}
+
